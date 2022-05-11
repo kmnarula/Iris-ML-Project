@@ -1,5 +1,3 @@
-# Iris Project
-
 # Loading the required libraries:
 from pandas import read_csv
 from pandas.plotting import scatter_matrix
@@ -107,6 +105,3 @@ df = px.data.iris()
 fig = px.scatter_3d(df, x='sepal_length', y='sepal_width', z='petal_width',
                     color='petal_length', symbol='species')
 fig.show()
-
-
-
