@@ -9,7 +9,7 @@ The steps required to successfully build an accurate model are as follows:
 4. Improve the results obtained.
 5. Present the results.
 
-The dataset used: Iris Flower Dataset (https://en.wikipedia.org/wiki/Iris_flower_data_set) 
+**The dataset used**: Iris Flower Dataset (https://en.wikipedia.org/wiki/Iris_flower_data_set) 
 There are four columns of measurements of the flowers in centimeters. The fifth column is the species of the flower observed. All observed flowers 
 belong to one of three species.
 
@@ -35,4 +35,3 @@ Several algorithms were used in order to successfully compute the best model. Th
 
 The best algorithm was selected after careful consideration and the best one was used to evaluate the model on the validation dataset and make 
 predictions.
-
